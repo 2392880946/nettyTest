@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProtoBufTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.ProtoBufTest",
+            "args": "",
+            "projectName": "nettysix"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyServer",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.server.NettyServer",
+            "args": "",
+            "projectName": "nettyfive"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyServer",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.server.NettyServer",
+            "args": "",
+            "projectName": "nettyfour"
+        },
+        {
+            "type": "java",
+            "name": "NettyClient",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.client.NettyClient",
+            "args": "",
+            "projectName": "nettythree"
+        },
+        {
+            "type": "java",
+            "name": "NettyServer",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.server.NettyServer",
+            "args": "",
+            "projectName": "nettythree"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyClient",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.client.NettyClient",
+            "args": "",
+            "projectName": "nettytwo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NettyServer",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "net.good.netty.server.NettyServer",
+            "args": "",
+            "projectName": "nettytwo"
+        }
+    ]
+}
